@@ -1,0 +1,9 @@
+2 /home/kirilya/./prog.out
+1 whoami
+2 whoami
+5 ls
+3 date
+4 pwd
+7 cal
+2 exit
+

@@ -1,0 +1,8 @@
+#ifndef BITARR
+#define BITARR
+int check (bitmap* bitarr, int n);
+int findplace (int* plc, int n);
+int inizialize(bitmap* bitarr, int n);
+int set(bitmap* bitarr, int n, int bit);
+int get(bitmap* bitarr, int n, int* value);
+#endif

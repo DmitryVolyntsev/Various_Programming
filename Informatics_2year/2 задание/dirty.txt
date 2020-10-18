@@ -1,0 +1,4 @@
+plate 2
+glass 2
+plate 1
+cup 2
